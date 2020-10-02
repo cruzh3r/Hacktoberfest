@@ -1,3 +1,4 @@
+// mulai menjalankan bot
 const Telegraf = require('telegraf);
 const bot = new Telegraf('BOT_TOKEN_MU); // masukkan token bot mu
 
