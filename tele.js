@@ -34,3 +34,5 @@ bot.hears('PESAN PERINTAH', ctx =>{
 });
 
 bot.startPolling();
+
+//closed
