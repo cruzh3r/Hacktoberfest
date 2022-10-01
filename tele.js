@@ -25,6 +25,9 @@ bot.hears('PESAN PERINTAH 1', ctx =>{
 bot.hears('PESAN PERINTAH 2', ctx =>{
 	return ctx.reply('BALASAN BOT 2');
 });
+bot.hears('PESAN PERINTAH 2', ctx =>{
+	return ctx.reply('BALASAN BOT 3');
+});
 
 // perintah untuk membuka file yang berekstensi .EXE
 bot.hears('PESAN PERINTAH', ctx =>{
