@@ -11,6 +11,7 @@ function Buka_File()
  {
   console.log(err)
   console.log(data)
+	 console.log(err, data)
  });
 };
 
